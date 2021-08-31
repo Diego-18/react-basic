@@ -1,3 +1,5 @@
-# Course Basic React
+# React Fundamentals Course
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-vvuagi)
+Course on the basics of the React JS framework. 
+
+<img src='http://betabeers.com/uploads/blog/20170420_React_logo_wordmark.png'>
